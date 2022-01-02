@@ -1,11 +1,20 @@
 # Pemrograman Web
  list tutorial from college paper
+ Roadmap by Web Programming Unpas
 
-# HTML
+# HTML Basic
     Tag & Atribute (DONE)
     Form & Table (DONE)
-    Semantic HTML (On Going)
-    Accessiiblity (Pending)
+    Semantic HTML (DONE)
+    Accessiiblity (DONE)
 
-# To Do List
-    Semantic Elements (https://www.youtube.com/watch?v=z2yhoaCOZUw&list=PL_dn9d_jd1YU-ZfI1blDkwe1bu6NfYS-X&index=4)
+# CSS Basic
+    yt: Web Programming Unpas
+    1. Pendahuluan (DONE)
+    2. Anatomi CSS (On Going)
+    3. Penempatan CSS (Pending)
+    etc...
+
+# Usefull Links
+    Semantic Elements 
+    https://www.youtube.com/watch?v=z2yhoaCOZUw&list=PL_dn9d_jd1YU-ZfI1blDkwe1bu6NfYS-X&index=4

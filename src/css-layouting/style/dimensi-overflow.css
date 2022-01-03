@@ -3,6 +3,11 @@ body {
     padding: 0;
 }
 
+.container {
+    background-color: lightcoral;
+    height: 100vh;
+}
+
 .box {
     margin-left: auto;
     margin-right: auto;

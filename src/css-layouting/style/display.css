@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2{
+    margin-left: 20px;
+}
+
+.inline {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightcyan;
+}
+
+.navigasi ul{
+    border: 1px solid red;
+    text-align: center;
+    padding-left: 0;
+}
+
+.navigasi a{
+    color: black;
+    text-decoration: none;
+    padding-right: 5px;  
+}
+
+.navigasi a:active {
+    color: green;
+}
+
+.navigasi li{
+    display: inline;
+}

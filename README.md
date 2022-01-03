@@ -14,7 +14,10 @@
     Specificity (DONE) -> So Important!
 
 # CSS Layouting
-    Display (OnGoing)
+    Display (DONE)
+    Dimensi & Overflow (DONE)
+    Box Model: Margin (DONE)
+    Box Model: Padding (OnGoing)
 
 # Usefull Links
     Semantic Elements 

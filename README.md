@@ -9,11 +9,11 @@
     Accessiiblity (DONE)
 
 # CSS Basic
-    yt: Web Programming Unpas
-    1. Pendahuluan (DONE)
-    2. Anatomi CSS (On Going)
-    3. Penempatan CSS (Pending)
-    etc...
+    Selector (DONE)
+    Property (DONE)
+    Specificity (DONE) -> So Important!
+
+# CSS Layouting
 
 # Usefull Links
     Semantic Elements 

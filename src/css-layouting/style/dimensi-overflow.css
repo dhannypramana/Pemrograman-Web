@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.box {
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid black;
+    width: 80%;
+    height: 100px;
+    overflow: auto;
+}
+
+.title {
+    width: 50%;
+    background-color: lightblue;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.title h1 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    background-color: lightseagreen;
+    text-align: center;
+}
+
+.overflow {
+    background-color: pink;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.overflow h1 {
+    width: 50%;
+    text-align: center;
+    background-color: red;
+    margin-left: auto;
+    margin-right: auto;
+}

@@ -17,7 +17,12 @@
     Display (DONE)
     Dimensi & Overflow (DONE)
     Box Model: Margin (DONE)
-    Box Model: Padding (OnGoing)
+    Box Model: Padding, Border, Box-Sizing (DONE)
+    CSS Reset (DONE)
+        > Latihan Box Model (DONE)
+    Float (OnGoing)
+    Clear (OnGoing)
+
 
 # Usefull Links
     Semantic Elements 

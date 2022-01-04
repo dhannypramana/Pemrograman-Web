@@ -1,0 +1,30 @@
+.kotak {
+    border: 3px dashed black;
+    width: 603px;
+    margin: auto;
+}
+
+.kotak1 {
+    width: 200px;
+    background-color:coral;
+    padding: 50px;
+    display: inline-block;
+    border-right: 3px dashed black;
+}
+
+.kotak1 p {
+    text-align: justify;
+    margin: 0;
+}
+
+.kotak2 {
+    background-color: lightcoral;
+    width: 200px;
+    padding: 50px;
+    display: inline-block;
+}
+
+.kotak2 p {
+    text-align: justify;
+    margin: 0;
+}

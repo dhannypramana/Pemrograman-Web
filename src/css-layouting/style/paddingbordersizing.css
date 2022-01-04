@@ -1,3 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* CSS Reset Meyer */
+/* https://meyerweb.com/eric/tools/css/reset/ */
+
 .kotak {
     border: 3px dashed black;
     width: 603px;
@@ -14,7 +22,6 @@
 
 .kotak1 p {
     text-align: justify;
-    margin: 0;
 }
 
 .kotak2 {
@@ -26,5 +33,4 @@
 
 .kotak2 p {
     text-align: justify;
-    margin: 0;
 }

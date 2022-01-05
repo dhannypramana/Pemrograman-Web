@@ -25,9 +25,9 @@
 }
 
 .transparent-background {
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(0, 0, 0, 0.2);
     width: 100%;
-    height: 250px;;
+    height: 250px;
 }
 
 .content {
@@ -60,6 +60,10 @@ p  {
     color: black;
     line-break: 1.2;
     font-weight: 200;
+}
+
+.text {
+    margin-top: 20px;
 }
 
 .text p, .text h1 {
@@ -103,17 +107,14 @@ p  {
 }
 
 .container2 .uc, .container3 .uc {
-    width: 400px;
+    width: 100%;
     height: 100%;
     
     display: flex;
     justify-content: center;
     align-items: center;
-
-    margin-left: auto;
-    margin-right: auto;
 }
 
 .container2 img, .container3 img {
-    width: 400px;
+    width: 40%;
 }

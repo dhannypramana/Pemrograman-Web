@@ -18,10 +18,11 @@
     Dimensi & Overflow (DONE)
     Box Model: Margin (DONE)
     Box Model: Padding, Border, Box-Sizing (DONE)
+        > Pelajari Lagi tentang Box-Sizing (Practical in Use)
     CSS Reset (DONE)
         > Latihan Box Model (DONE)
-    Float (OnGoing)
-    Clear (OnGoing)
+    Float (DONE)
+    Clear (DONE)
 
 
 # Usefull Links

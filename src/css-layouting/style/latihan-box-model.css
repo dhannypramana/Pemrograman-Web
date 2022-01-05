@@ -109,6 +109,12 @@ body {
     margin-left: 20px;
 }
 
+.about h3 {
+    font-weight: 400;
+    line-height: 1.2;
+    color: black;
+}
+
 .about-container img {
     width: 90px;
     float: left;

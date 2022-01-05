@@ -101,3 +101,19 @@ p  {
 .container2 h1 , .container3 h1 {
     line-height: 100vh;
 }
+
+.container2 .uc, .container3 .uc {
+    width: 400px;
+    height: 100%;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container2 img, .container3 img {
+    width: 400px;
+}

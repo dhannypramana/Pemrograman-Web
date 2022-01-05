@@ -1,0 +1,86 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(/Pemrograman-Web/assets/sativa.png);
+}
+
+.pageone {
+    height: 100vh;
+    border-bottom: 2px solid black;
+}
+
+.pagetwo {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.container {
+    /* border: 2px solid black; */
+    width: fit-content;
+    height: 100vh;
+    margin: auto;
+    display: flex;
+    align-items: center;
+}
+
+.container img {
+    border-radius: 100%;
+    float: left;
+}
+
+.description {
+    width: fit-content;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 400;
+    line-height: 1.2;
+    font-size: 1.2rem;
+    margin-left: 20px;
+}
+
+.kotakcontainer {
+    width: 200px;
+    margin: auto;
+    padding: 10px;
+}
+
+.kotakcontainer .kotak {
+    color: black;
+    width: 50px;
+    height: 50px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    text-align: center;
+    line-height: 50px;
+    font-size: 20px;
+    float: left;
+}
+
+.kotakcontainer .kotak:hover {
+    background-color: black;
+    color: white;
+}
+.kotakcontainer .col3 {
+    width: 85%;
+    margin-bottom: 0;
+}
+
+
+/* CLearfix */
+.cf:before,
+.cf:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
+
+.cf:after {
+    clear: both;
+}
+
+/**
+ * For IE 6/7 only
+ * Include this rule to trigger hasLayout and contain floats.
+ */
+.cf {
+    *zoom: 1;
+}

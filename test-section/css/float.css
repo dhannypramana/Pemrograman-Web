@@ -4,6 +4,11 @@ body {
     background-image: url(/Pemrograman-Web/assets/sativa.png);
 }
 
+/* Test Section */
+
+
+/* Test Section */
+
 .pageone {
     height: 100vh;
     border-bottom: 2px solid black;
@@ -13,6 +18,22 @@ body {
     height: 100vh;
     display: flex;
     align-items: center;
+    border-bottom: 2px solid black;
+}
+
+.pagethree {
+    border: 1px solid red;
+    height: 100vh;
+}
+
+.pagethree .about {
+    border: 1px solid green;
+    width: 30%;
+    height: 100%;
+    text-align: justify;
+    padding: 10px;
+    box-sizing: border-box;
+    float: left;
 }
 
 .container {
@@ -59,11 +80,14 @@ body {
 .kotakcontainer .kotak:hover {
     background-color: black;
     color: white;
+    border: none;
+    border-radius: 5px;
 }
 .kotakcontainer .col3 {
     width: 85%;
     margin-bottom: 0;
 }
+
 
 
 /* CLearfix */

@@ -11,27 +11,19 @@ body {
 }
 
 .topbar {
-    height: 70px;
     position: fixed;
     top: 0;
     left: 0;
     right: 0;
-    z-index: 99;
+    z-index: 1;
     box-shadow: 0 8px 12px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-    line-height: 70px;
     background-color: rgba(0, 0, 0, 0.5);
     color: white;
-    border-bottom: 1px solid salmon;
-}
-
-.center {
-    width: 80%;
-    height: 70%;
-    box-sizing: border-box;
+    /* border-bottom: 1px solid salmon; */
 }
 
 .topbar .center {
-    width: 50%;
+    width: fit-content;
     height: 70px;
     display: flex;
     align-items: center;
@@ -47,11 +39,9 @@ body {
 
 .center h1 {
     width: fit-content;
-    height: 95%;
     font-weight: 400;
-    font-size: 28px;
+    font-size: 25px;
     letter-spacing: 1px;
-    display: inline-block;
 }
 
 .ribbon {

@@ -21,13 +21,7 @@ body {
     border-bottom: 2px solid black;
 }
 
-.pagethree {
-    border: 1px solid red;
-    height: 100vh;
-}
-
 .pagethree .about {
-    border: 1px solid green;
     width: 30%;
     height: 100%;
     text-align: justify;
@@ -83,6 +77,12 @@ body {
     border: none;
     border-radius: 5px;
 }
+
+.kotakcontainer .kotak:active {
+    background-color: lightsteelblue;
+    border: 2px solid black;
+}
+
 .kotakcontainer .col3 {
     width: 85%;
     margin-bottom: 0;

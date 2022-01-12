@@ -1,0 +1,39 @@
+.container2 {
+    border: 2px solid red;
+    width: 600px;
+    height: 150px;
+    margin: 24px auto;
+    padding: 2px;
+    box-sizing: border-box;
+
+    display: flex;
+    /* flex-direction: row; */
+    flex-wrap: wrap;
+    /* justify-content: space-between; */
+    /* align-items: baseline; */
+    /* align-content: center; */
+}
+
+.empat, .lima, .enam, .tujuh {
+    margin: 2px;
+    color: white;
+
+    flex: 1;
+}
+
+.empat {
+    background-color: limegreen;
+}
+
+.lima {
+    background-color: lightpink;
+    flex: 2;
+}
+
+.enam {
+    background-color: lightseagreen;
+}
+
+.tujuh {
+    background-color: rgb(224, 109, 109);
+}

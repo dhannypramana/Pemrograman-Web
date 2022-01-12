@@ -52,6 +52,14 @@ html, body {
     text-decoration: none;
 }
 
+.sidebar-1 a:hover {
+    color: red;
+}
+
+.sidebar-1 a:active {
+    color: black;
+}
+
 .section-1 h2 {
     margin: 0;
 }
